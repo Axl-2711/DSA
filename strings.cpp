@@ -3,7 +3,6 @@ using namespace std;
 
 int main()
 {
-
     // string str;
     // cout << "Enter a string: ";
     // cin >> str;
@@ -31,7 +30,6 @@ int main()
     // } else {
     //     cout << "The string is not a palindrome." << endl;
     // }
-
 
 
     // Remove the Duplicate Characters
