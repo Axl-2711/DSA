@@ -32,5 +32,10 @@ int main()
         }
     };
 
+    Solution sol;
+    vector<int> height = {1, 8, 6, 2, 5, 4};
+    int maxArea = sol.maxArea(height);
+    cout << "Max Area: " << maxArea << endl;
+
     return 0;
 }
